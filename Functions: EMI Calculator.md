@@ -50,7 +50,8 @@ int main() {
 }
 ```
 ## Sample Output
-![Uploading image.png…]()
+<img width="477" height="281" alt="image" src="https://github.com/user-attachments/assets/cdb8ba7c-a961-446a-a247-f2ec348c6a9d" />
+
 
 ## Result
 C program that calculates the EMI for a loan using a function **without return type and with arguments** is written.
