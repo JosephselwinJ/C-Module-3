@@ -20,7 +20,6 @@ To create a C program that reads `n` integers into an array and determines if th
 
 ## 🧾 Program
 #include <stdio.h>
-
 int main() {
     int n, i;
     int a[10];
@@ -39,6 +38,7 @@ int main() {
 
     return 0;
 }
+
 
 ## Sample Output
 <img width="472" height="303" alt="image" src="https://github.com/user-attachments/assets/9e76e11b-d8ee-46ce-b3f9-742ce3c826ed" />
